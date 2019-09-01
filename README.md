@@ -1,6 +1,10 @@
 # TwitterDeAuth
 A hacky Python program for de-authorizing apps on your Twitter account.
 
+## Disclaimer
+
+This program will click around your screen. When it works correctly, it performs as described. But it might malfunction. It has passed minima testing. It is provided only as an example (as a result of my first attempt) of how pyautogui can be used to automate repetitive clicking tasks that involve some minimal image processing.
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine.
@@ -8,9 +12,10 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 You must have Python 3 installed. 
+You must have Python 3 installed.
 You must have the pyautogui package installed. A good reference for how to do that is in one of the chapters of [Automate the Boring Stuff, Chapter 18](https://automatetheboringstuff.com/chapter18/).
 
-For this to work, I recommend turning off any scaling settings you have on your machine, like the "Scale and Layout" settings that are on Windows 10. 
+For this to work, I recommend turning off any scaling settings you have on your machine, like the "Scale and Layout" settings that are on Windows 10.
 
 Also, you might want to limit your resolution to 1920 x 1080, since the larger the desktop, the slower this script runs (because of image processing).
 
