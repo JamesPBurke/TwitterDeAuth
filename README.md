@@ -11,7 +11,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-You must have Python 3 installed. 
 You must have Python 3 installed.
 You must have the pyautogui package installed. A good reference for how to do that is in one of the chapters of [Automate the Boring Stuff, Chapter 18](https://automatetheboringstuff.com/chapter18/).
 
